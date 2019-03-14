@@ -1,0 +1,20 @@
+home:
+  search: id = home_search
+  tab_portfolio: xpath = //*[@text="自选"]/..
+
+portfolio:
+  search_bt: id = action_create_cube
+  group_bt: id = edit_group
+
+search:
+  input_text: id = search_input_text
+  clear_text_bt: id = action_delete_text
+  cancel_bt: id = action_close
+
+manage:
+  manage_curren: xpath = //*[@text="管理本页股票"]
+  manage_group: xpath = //*[@text="管理分组"]
+  group_add: id = add_item
+  group_dialog: id = content
+  dialog_input_text: id = dialog_input_text
+  dialog_confirm_bt: id = bt_right

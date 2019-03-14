@@ -1,0 +1,7 @@
+a:
+  aa: id
+  bb: id = bbb
+
+b:
+  aa: id = aaa2
+  bb: id = bbb2
